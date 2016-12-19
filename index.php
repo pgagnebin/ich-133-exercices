@@ -1,5 +1,6 @@
 <?php
 
+
 $exclude_files = array(".", "includes", "nbproject");
 
 $files = scandir("./", 0);
