@@ -1,4 +1,5 @@
 <?php
+// Modification en BD12 :-)
 $exclude_files = array(".", "includes", "nbproject");
 
 $files = scandir("./", 0);
